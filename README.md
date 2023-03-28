@@ -1,2 +1,2 @@
 # Python-Fazla-Ozellikli-Hesap-Makinesi
-Karışık Kuruyemiş 2 İşinize Yarar Belki
+Karışık Kuruyemiş 3 İşinize Yarar Belki
